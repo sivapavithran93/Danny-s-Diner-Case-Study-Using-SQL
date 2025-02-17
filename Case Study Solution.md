@@ -1,4 +1,4 @@
-# <h1 align="center" > 🍜 Case Study #1: Danny's Diner 🍜 
+# <h1 align="center" > 🍜 Danny's Diner 🍜 
  
 <p align="center">
 <kbd>  <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" alt="Image" width="450" height="450"></kbd>
