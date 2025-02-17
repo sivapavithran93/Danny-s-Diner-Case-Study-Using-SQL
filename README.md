@@ -1,17 +1,26 @@
-# Danny-s-Diner-Case-Study-Using-SQL
+# **Danny-s-Diner-Case-Study-Using-SQL**
 
-8-Week SQL Challenges
+# **8-Week SQL Challenges**
 
-This repository serves as the solution for some of the case studies from the #8WeekSQLChallenge.
+Danny’s Diner is a small Japanese restaurant that opened in early 2021, serving three fan-favorite dishes: sushi, curry, and ramen. While the restaurant quickly gained a modest following, Danny is now looking to leverage the data collected over the first few months of operation to better understand his customers.
 
-It showcases my ability to tackle various SQL challenges and demonstrates my proficiency in SQL query writing and problem-solving skills.
+The goal of this case study is to help Danny use SQL to derive actionable insights from his data, including customer spending patterns, visiting habits, and product preferences. These insights will enable Danny to personalize the dining experience for his loyal customers and make informed decisions on expanding the restaurant's customer loyalty program.
 
-A special thanks to Data with Danny for creating these insightful and engaging SQL case studies! 👋🏻
+# **Key Objectives:**
 
----------------------------------------
-Note:
+- Customer Insights: How much do customers spend? How often do they visit?
+- Menu Performance: Which items are most popular? What’s the first item each customer orders?
+- Loyalty Program Impact: How do purchases change before and after joining the program?
 
-    Solutions are coded in MySQL 
-----------------------------------------
+# **Data Overview:**
+
+The analysis is based on three core datasets:
+
+- Sales: Captures customer purchases, including product IDs and order dates.
+- Menu: Maps product IDs to menu items and prices.
+- Members: Tracks when customers join the loyalty program.
+
+-------------------------------------------------------
 Support
+
 Give a ⭐️ if you like this project!
